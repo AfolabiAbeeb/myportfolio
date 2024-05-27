@@ -115,7 +115,8 @@ input{
         height: 40px;
     }
     #pic2 {
-        height: 30vh;
+      width: 70%;
+        height: 35vh;
         border-radius: 70%;
     }
     #pic1{
@@ -126,4 +127,4 @@ input{
   #range {
     height: 25px;
 }
-  }
+  5
