@@ -45,8 +45,8 @@ button:hover {
     height: 80vh;
     border: 6px solid white;
     border-radius: 50%;
-    background-image: url(./129285862.jpg);
-    background-size: cover;
+    background-image: url(./FB_IMG_1705303870246.jpg);
+    background-size: 100%;
 }
 #range {
     border-radius: 50px 50px;
@@ -127,4 +127,4 @@ input{
   #range {
     height: 25px;
 }
-  5
+  }
