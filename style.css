@@ -1,7 +1,7 @@
 * {
     margin: 0%;
     padding: 0;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 body{
     background-color: #111;
@@ -32,6 +32,8 @@ button:hover {
     width: 80%;
     height: 20%;
     border: 1px solid white;
+    background-image: url(./129285862.jpg);
+    background-size: cover;
 }
 #main {
     margin-left: 180px;
@@ -43,6 +45,8 @@ button:hover {
     height: 80vh;
     border: 6px solid white;
     border-radius: 50%;
+    background-image: url(./129285862.jpg);
+    background-size: cover;
 }
 #range {
     border-radius: 50px 50px;
@@ -114,4 +118,12 @@ input{
         height: 30vh;
         border-radius: 70%;
     }
+    #pic1{
+      width: 70%;
+      height: 30%;
+      border: 1px solid white;
+  }
+  #range {
+    height: 25px;
+}
   }
