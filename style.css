@@ -48,7 +48,7 @@ button:hover {
   height: 80vh;
   border: 6px solid white;
   border-radius: 50%;
-  background-image: url(./FB_IMG_1705303870246.jpg);
+  background-image: url(./aphoo\ white.jpg);
   background-size: 100%;
 }
 #range {
@@ -263,6 +263,9 @@ p {
   background-color: #4070f4;
   transform: translateX(-50%) rotate(45deg);
 }
+.nav-link {
+  color: #f1f1f1;
+}
 
 @media screen and (max-width: 650px) {
   #main {
@@ -282,8 +285,8 @@ p {
   }
   #pic2 {
     width: 70%;
-    height: 35vh;
-    border-radius: 70%;
+    height: 45vh;
+    border-radius: 50%;
   }
   #pic1 {
     width: 70%;
